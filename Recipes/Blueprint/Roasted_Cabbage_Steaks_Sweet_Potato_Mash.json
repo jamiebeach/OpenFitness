@@ -1,0 +1,38 @@
+{
+  "title": "Roasted Cabbage Steaks + Sweet Potato Mash",
+  "ingredients": [
+    {"name": "purple cabbage", "amount": "1/2 head"},
+    {"name": "orange sweet potato", "amount": "1"},
+    {"name": "unsweetened almond milk", "amount": "1/2 cup"},
+    {"name": "parsley", "amount": "handful"},
+    {"name": "pumpkin seeds", "amount": "1/2 tsp"},
+    {"name": "cinnamon", "amount": "1/2 tsp"},
+    {"name": "nutmeg", "amount": "1/2 tsp"},
+    {"name": "toasted walnuts or pecans", "amount": "1/4 cup"},
+    {"name": "EVOO", "amount": "1 tsp"},
+    {"name": "chipotle powder", "amount": "1/2 tsp"},
+    {"name": "paprika", "amount": "1/2 tsp"},
+    {"name": "onion powder", "amount": "1/2 tsp"},
+    {"name": "lemon", "amount": "1"}
+  ],
+  "steps": [
+    "Peel the sweet potato and cut it into 1-inch cubes. Boil the sweet potatoes for about 10-15 minutes or until fork-tender.",
+    "Drain the sweet potatoes, place in bowl, and mash with fork. You can mash them super smooth or leave them chunkier. Slowly add in the almond milk in small amounts at a time until desired consistency.",
+    "Add in the cinnamon and nutmeg and stir until smooth.",
+    "Toast the walnuts or pecans in a pan at low heat for 3-4 minutes and crumble on top.",
+    "Remove and discard the outer leaves. Firmly press down on cabbage with one hand and cut an inch-thick 'steak'. Place on a baking sheet.",
+    "Drizzle with EVOO. Generously sprinkle the chipotle powder, paprika, and onion powder on the steaks.",
+    "Roast in the oven at 400°F for 20-30 minutes or until tender/golden brown.",
+    "On a plate, scoop a few spoonfuls of the sweet potato mash and smooth flat. Lay the cabbage steaks on top of the mash. Chop and sprinkle some parsley or any other fresh herb. Finish with a squeeze of lemon juice."
+  ],
+  "serves": "1",
+  "calories": "491",
+  "nutrition": {
+    "protein": "10.6 g",
+    "fat": "28.35 g",
+    "carbohydrates": "59.5 g",
+    "fiber": "19.7 g"
+  },
+  "tags": "blueprint, bryan johnson, vegan, healthy, plant-based, salad",
+  "source_uri": "https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}

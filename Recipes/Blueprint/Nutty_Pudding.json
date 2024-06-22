@@ -1,0 +1,38 @@
+{
+  "title": "Nutty Pudding",
+  "ingredients": [
+    {"name": "nut milk (almond/macadamia)", "amount": "50-100 mL"},
+    {"name": "ground macadamia nuts", "amount": "3 tbsp"},
+    {"name": "ground walnuts", "amount": "2 tsp"},
+    {"name": "chia seeds", "amount": "2 tbsp"},
+    {"name": "ground flaxseed", "amount": "1 tsp"},
+    {"name": "brazil nut", "amount": "1/4"},
+    {"name": "cocoa powder", "amount": "1 tbsp"},
+    {"name": "sunflower lecithin", "amount": "1 tsp"},
+    {"name": "ceylon cinnamon", "amount": "1/2 tsp"},
+    {"name": "berries", "amount": "1/2 cup"},
+    {"name": "cherries", "amount": "3"},
+    {"name": "pomegranate juice", "amount": "2 oz"},
+    {"name": "extra virgin olive oil (EVOO)", "amount": "1 tbsp (consume separately)"}
+  ],
+  "steps": [
+    "Add 50-100 mL almond/macadamia milk based upon desired consistency.",
+    "Add walnuts, macadamia nuts, ground flax seeds, chia seeds (obtain the highest nutritional value by buying and grinding seeds).",
+    "Add cocoa powder, sunflower lecithin, and cinnamon.",
+    "Add 3 cherries, 1/2 cup of berries (save half for topping) and pomegranate juice.",
+    "Mix on high for 2 minutes.",
+    "Pour into a dish.",
+    "Add the rest of the berries.",
+    "Optional: Add 30-60 grams of pea protein."
+  ],
+  "serves": "1",
+  "calories": "686",
+  "nutrition": {
+    "protein": "10.35 g",
+    "fat": "55.45 g",
+    "carbohydrates": "44.12 g",
+    "fiber": "19.8 g"
+  },
+  "tags": "blueprint, bryan johnson, vegan, healthy, plant-based, pudding",
+  "source_uri": "https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}

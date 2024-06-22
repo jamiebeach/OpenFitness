@@ -1,0 +1,34 @@
+{
+  "title": "Roasted Beets + Green Lentils + Wilted Chard",
+  "ingredients": [
+    {"name": "green lentils", "amount": "1/2 cup"},
+    {"name": "rainbow or Swiss chard", "amount": "4 cups"},
+    {"name": "large beets", "amount": "3"},
+    {"name": "walnuts", "amount": "3 tbsp"},
+    {"name": "extra virgin olive oil (EVOO)", "amount": "1 tbsp"},
+    {"name": "fresh herbs (basil, dill, mint)", "amount": "handful"},
+    {"name": "pepper", "amount": "1/4 tsp"},
+    {"name": "chipotle powder", "amount": "1/4 tsp"},
+    {"name": "Italian seasoning", "amount": "1 tbsp"},
+    {"name": "garlic", "amount": "1 clove"},
+    {"name": "large shallot", "amount": "1"}
+  ],
+  "steps": [
+    "Peel the whole beets with a vegetable peeler and cut into chunks. Place on a baking sheet, cover with 1 tbsp EVOO, and roast in the oven at 400°F–425°F for 35–40 minutes or until golden brown.",
+    "Add 4 cups of water and 1 cup of lentils to a pot. Bring to a boil, reduce to a low simmer, and cook 18 minutes. Drain and rinse. Sprinkle with Italian seasoning.",
+    "In a pan, sauté shallot and garlic with a dash of EVOO, and add a mound of chard (about four cups packed). Gently wilt for 1–4 minutes.",
+    "Toast the walnuts on low heat until browned, about 3–4 minutes.",
+    "In a bowl, combine the wilted chard, lentils, roasted beets, and toasted walnuts.",
+    "Toss in a handful of chopped basil or dill. Season with pepper and a dash of chipotle powder."
+  ],
+  "serves": "1",
+  "calories": "624",
+  "nutrition": {
+    "protein": "22.3 g",
+    "fat": "30.5 g",
+    "carbohydrates": "78.3 g",
+    "fiber": "27.4 g"
+  },
+  "tags": "blueprint, bryan johnson, vegan, healthy, plant-based, salad",
+  "source_uri": "https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}

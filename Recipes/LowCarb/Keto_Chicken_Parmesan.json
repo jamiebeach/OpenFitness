@@ -1,0 +1,64 @@
+{
+    "title":"Keto Chicken Parmesan",
+    "ingredients": [
+        {
+            "name":"Chicken Breasts",
+            "amount":"2"
+        },
+        {
+            "name":"Coconut Flour",
+            "amount":"2 cups"
+        },
+        {
+            "name":"Parmesan Cheese",
+            "amount":"1 cup"
+        },
+        {
+            "name":"Mozzarella Cheese",
+            "amount":"1/2 cup"
+        },
+        {
+            "name":"Garlic Powder",
+            "amount":"1/2 cup"
+        },
+        {
+            "name":"Oregano",
+            "amount":"3 tbsp"
+        },
+        {
+            "name":"Large Eggs",
+            "amount":"2"
+        },
+        {
+            "name":"Tomato Sauce",
+            "amount":"1 Jar"
+        }
+    ],
+    "steps": [
+        "Preheat the oven to 400F (205C).",
+        "Place each chicken breast between two pieces of parchment paper or plastic wrap and pound them with a meat mallet until they are about 1/4 inch thick.",
+        "Season the chicken breasts with salt and pepper.",
+        "Place the coconut flour in a shallow bowl.",
+        "In a separate bowl, beat the eggs.",
+        "In another shallow bowl, combine the Parmesan cheese, mozzarella cheese, garlic powder, and oregano.",
+        "Dip each chicken breast into the coconut flour, then into the beaten egg, and finally into the cheese and spice mixture, making sure they are well coated.",
+        "Heat some oil in a frying pan over medium-high heat.",
+        "Fry each chicken breast for about 2-3 minutes on each side or until golden brown.",
+        "Once the chicken is done frying, transfer it to a baking dish.",
+        "Pour the tomato sauce over the chicken, making sure it is fully covered.",
+        "Sprinkle some more mozzarella cheese on top of the chicken.",
+        "Bake the chicken in the oven for about 10-15 minutes or until the cheese is melted and bubbly.",
+        "Once done, remove from the oven and let it rest for a few minutes.",
+        "Serve hot and enjoy your delicious chicken parmesan!"
+    ],
+    "serves": "4",
+    "calories":"650",
+    "nutrition":{
+        "protein":"57 grams",
+        "carbs":"56 grams",
+        "fat":"34 grams",
+        "fiber":"13 grams",
+        "sugar":"16 grams"
+    },
+  "tags":"keto,low carb,chicken,dinner"
+}

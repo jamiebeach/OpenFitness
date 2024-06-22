@@ -1,0 +1,35 @@
+{
+  "title": "Beet Poke",
+  "ingredients": [
+    {"name": "beets", "amount": "4-5"},
+    {"name": "purple or watermelon radishes", "amount": "1-2"},
+    {"name": "avocado", "amount": "1/2"},
+    {"name": "mango", "amount": "1/4"},
+    {"name": "mixed greens", "amount": "1-2 cups"},
+    {"name": "limes", "amount": "2"},
+    {"name": "toasted sesame seeds", "amount": "sprinkle"},
+    {"name": "green onions", "amount": "handful"},
+    {"name": "cilantro", "amount": "handful"},
+    {"name": "microgreens (radish, pea shoots, sprouts)", "amount": "handful"},
+    {"name": "EVOO", "amount": "1 tsp"},
+    {"name": "coconut aminos", "amount": "1/2 tbsp"}
+  ],
+  "steps": [
+    "Wash and peel the beets. Cut into 1-inch cubes. Boil in water for 20-25 minutes until tender. Drain and rinse.",
+    "Chop the green onions and cilantro.",
+    "In a bowl, combine the cooked chopped beets, handful of green onions, chopped cilantro, spoonful of sesame seeds, coconut aminos, juice of 2 limes, and EVOO.",
+    "Refrigerate and let sit for 10-15 minutes.",
+    "Slice the mango, avocado, and radish.",
+    "Assemble on a plate with 1-2 cups of greens, mango, avocado, beet poke, sliced radish, and your favorite microgreens."
+  ],
+  "serves": "1",
+  "calories": "437",
+  "nutrition": {
+    "protein": "12.3 g",
+    "fat": "17.6 g",
+    "carbohydrates": "70.8 g",
+    "fiber": "27.3 g"
+  },
+  "tags": "blueprint, bryan johnson, vegan, healthy, plant-based, poke",
+  "source_uri": "https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}

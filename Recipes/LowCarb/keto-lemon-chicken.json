@@ -1,0 +1,66 @@
+{
+    "title": "Keto Lemon Chicken",
+    "ingredients": [
+        {
+            "name": "chicken breasts",
+            "amount": "2, boneless and skinless"
+        },
+        {
+            "name": "olive oil",
+            "amount": "2 tablespoons"
+        },
+        {
+            "name": "lemon",
+            "amount": "1, juiced and zested"
+        },
+        {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+        },
+        {
+            "name": "chicken broth",
+            "amount": "1/2 cup"
+        },
+        {
+            "name": "heavy cream",
+            "amount": "1/4 cup"
+        },
+        {
+            "name": "unsalted butter",
+            "amount": "2 tablespoons"
+        },
+        {
+            "name": "thyme",
+            "amount": "1 teaspoon, dried"
+        },
+        {
+            "name": "salt",
+            "amount": "to taste"
+        },
+        {
+            "name": "pepper",
+            "amount": "to taste"
+        },
+        {
+            "name": "fresh parsley",
+            "amount": "for garnish, chopped"
+        }
+    ],
+    "steps": [
+        "Season both sides of the chicken breasts with salt and pepper.",
+        "Heat olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook until golden brown on both sides, about 4-5 minutes per side. Remove the chicken from the skillet and set aside.",
+        "In the same skillet, add minced garlic and cook for 1 minute, stirring constantly. Add the chicken broth and lemon juice, scraping the bottom of the skillet to deglaze and release any browned bits.",
+        "Bring the mixture to a boil, then reduce heat to low and simmer for 5 minutes. Add the heavy cream, butter, lemon zest, and thyme, stirring until the butter is melted and the sauce is well combined.",
+        "Return the chicken to the skillet, cover, and cook for 10-12 minutes or until the chicken is cooked through and reaches an internal temperature of 165°F (74°C).",
+        "Sprinkle with chopped parsley and serve with your favorite keto-friendly vegetables or a side salad."
+    ],
+    "serves": "2",
+    "calories": "600",
+    "nutrition": {
+        "carbohydrates": "5g",
+        "protein": "30g",
+        "fat": "50g",
+        "fiber": "1g",
+        "sodium": "350mg"
+    }
+}

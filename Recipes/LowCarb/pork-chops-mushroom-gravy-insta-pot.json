@@ -1,0 +1,44 @@
+{
+    "title":"Pork Chops with Mushroom Gravy",
+    "ingredients": [
+        {
+            "name":"Porkchops",
+            "amount":"5"
+        },
+        {
+            "name":"Olive Oil",
+            "amount":"2 tbsp"
+        },
+        {
+            "name":"Cream of Mushroom Soup",
+            "amount":"1 can"
+        },
+        {
+            "name":"Water",
+            "amount":"1 cup"
+        },
+        {
+            "name":"Beef Broth",
+            "amount":"1 cup"
+        }
+    ],
+    "steps": [
+        "Place Instapot on Saute; add the olive oil. Brown both sides of pork chops.",
+        "Remove pork chops to plate; pour in the liquids (water and broth).",
+        "Deglaze bottom of pot with a wooden spoon or spatula by lightly 'scraping' the pot with the spatula to loosen any pork pieces stuck to the pot. Note - not a metal spatula as that could scratch up the pot.",
+        "Place porkchops back in pot and try to not layer them but keep them as separate as possible.",
+        "Pour cream of mushroom soup on top of the chops. Don't mix in, just cover.",
+        "Set Instapot to manual/high power - 15 minutes.",
+        "Let it release naturally.",
+        "Serve with heated frozen broccoli"
+    ],
+    "serves":"4",
+    "calories":"336",
+    "nutrition":{
+        "Protein":"34 grams",
+        "Carbohydrates":"9 grams",
+        "Fat":"27 grams",
+        "Fiber":"1 gram",
+        "Sugar":"1 gram"
+    }
+}

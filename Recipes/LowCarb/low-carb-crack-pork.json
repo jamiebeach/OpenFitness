@@ -1,0 +1,73 @@
+{
+    "title": "Low Carb Crack Pork",
+    "ingredients": [
+        {
+            "name": "ground pork",
+            "amount": "1 lb (450g)"
+        },
+        {
+            "name": "shredded cabbage",
+            "amount": "4 cups"
+        },
+        {
+            "name": "bok choy",
+            "amount": "2 cups, chopped"
+        },
+        {
+            "name": "green onions",
+            "amount": "4, thinly sliced"
+        },
+        {
+            "name": "sesame oil",
+            "amount": "2 tablespoons"
+        },
+        {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+        },
+        {
+            "name": "ginger",
+            "amount": "1 tablespoon, minced"
+        },
+        {
+            "name": "coconut aminos",
+            "amount": "1/4 cup"
+        },
+        {
+            "name": "rice vinegar",
+            "amount": "2 tablespoons"
+        },
+        {
+            "name": "sugar-free ketchup",
+            "amount": "1 tablespoon"
+        },
+        {
+            "name": "Chinese five-spice powder",
+            "amount": "a pinch"
+        },
+        {
+            "name": "crushed red pepper flakes",
+            "amount": "1/2 teaspoon"
+        },
+        {
+            "name": "sesame seeds",
+            "amount": "2 tablespoons, toasted"
+        }
+    ],
+    "steps": [
+        "In a large skillet or wok, heat the sesame oil over medium-high heat. Add the minced garlic and ginger, and cook for 30 seconds until fragrant.",
+        "Add the ground pork to the skillet, breaking it apart with a wooden spoon or spatula. Cook for 5-7 minutes, or until the pork is browned and cooked through.",
+        "In a small bowl, whisk together the coconut aminos, rice vinegar, sugar-free ketchup, Chinese five-spice powder, and crushed red pepper flakes. Pour the sauce mixture into the skillet, stirring to combine with the cooked pork.",
+        "Add the shredded cabbage, chopped bok choy, and sliced green onions to the skillet, stirring to combine with the pork and sauce. Cook for 3-4 minutes, or until the vegetables have softened slightly.",
+        "Sprinkle the toasted sesame seeds over the top of the dish and serve immediately with cauliflower rice, if desired, to keep it low-carb."
+    ],
+    "serves": "4",
+    "calories": "460",
+    "nutrition": {
+        "carbohydrates": "10g",
+        "protein": "25g",
+        "fat": "34g",
+        "fiber": "4g",
+        "sodium": "780mg"
+    }
+}

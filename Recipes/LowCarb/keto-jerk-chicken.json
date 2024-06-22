@@ -1,0 +1,63 @@
+{
+    "title": "Keto Jerk Chicken",
+    "ingredients": [
+        {
+            "name": "chicken thighs",
+            "amount": "4, bone-in and skin-on"
+        },
+        {
+            "name": "olive oil",
+            "amount": "2 tablespoons"
+        },
+        {
+            "name": "jerk seasoning",
+            "amount": "3 tablespoons"
+        },
+        {
+            "name": "lime",
+            "amount": "1, juiced"
+        },
+        {
+            "name": "garlic",
+            "amount": "2 cloves, minced"
+        },
+        {
+            "name": "soy sauce",
+            "amount": "2 tablespoons"
+        },
+        {
+            "name": "apple cider vinegar",
+            "amount": "1 tablespoon"
+        },
+        {
+            "name": "salt",
+            "amount": "to taste"
+        },
+        {
+            "name": "pepper",
+            "amount": "to taste"
+        },
+        {
+            "name": "green onions",
+            "amount": "for garnish, chopped"
+        }
+    ],
+    "steps": [
+        "In a small bowl, combine the jerk seasoning, lime juice, minced garlic, soy sauce, and apple cider vinegar. Mix well to create the marinade.",
+        "Place the chicken thighs in a large resealable plastic bag or a shallow dish. Pour the marinade over the chicken, ensuring each piece is well coated. Seal the bag or cover the dish and refrigerate for at least 1 hour, preferably longer for more flavor.",
+        "Preheat the oven to 400°F (200°C).",
+        "Remove the chicken from the marinade, allowing any excess to drip off. Season the chicken with salt and pepper to taste.",
+        "Heat the olive oil in a large, oven-safe skillet over medium-high heat. Add the marinated chicken, skin-side down, and cook for 3-4 minutes until the skin is browned and crispy.",
+        "Flip the chicken and transfer the skillet to the preheated oven. Bake for 25-30 minutes, or until the chicken is cooked through and reaches an internal temperature of 165°F (74°C).",
+        "Garnish with chopped green onions and serve with your favorite keto-friendly vegetables or a side salad."
+    ],
+    "serves": "4",
+    "calories": "450",
+    "nutrition": {
+        "carbohydrates": "3g",
+        "protein": "35g",
+        "fat": "32g",
+        "fiber": "1g",
+        "sodium": "850mg"
+    }
+}

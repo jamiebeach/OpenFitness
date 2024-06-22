@@ -1,0 +1,83 @@
+{
+    "title": "Low-Carb Chili",
+    "ingredients": [
+        {
+            "name": "ground beef",
+            "amount": "2 lbs (900g)"
+        },
+        {
+            "name": "olive oil",
+            "amount": "2 tablespoons"
+        },
+        {
+            "name": "onion",
+            "amount": "1 medium, chopped"
+        },
+        {
+            "name": "garlic",
+            "amount": "3 cloves, minced"
+        },
+        {
+            "name": "green bell pepper",
+            "amount": "1, chopped"
+        },
+        {
+            "name": "red bell pepper",
+            "amount": "1, chopped"
+        },
+        {
+            "name": "canned diced tomatoes",
+            "amount": "2 cups (14.5-ounce can), no sugar added"
+        },
+        {
+            "name": "tomato sauce",
+            "amount": "1 cup, no sugar added"
+        },
+        {
+            "name": "chili powder",
+            "amount": "3 tablespoons"
+        },
+        {
+            "name": "ground cumin",
+            "amount": "1 tablespoon"
+        },
+        {
+            "name": "paprika",
+            "amount": "1 teaspoon"
+        },
+        {
+            "name": "dried oregano",
+            "amount": "1 teaspoon"
+        },
+        {
+            "name": "cayenne pepper",
+            "amount": "1/4 teaspoon"
+        },
+        {
+            "name": "salt",
+            "amount": "to taste"
+        },
+        {
+            "name": "black pepper",
+            "amount": "to taste"
+        }
+    ],
+    "steps": [
+        "In a large pot or Dutch oven, heat the olive oil over medium heat.",
+        "Add the chopped onion, garlic, and bell peppers. Cook for 4-5 minutes, stirring occasionally, until the vegetables have softened.",
+        "Add the ground beef to the pot, breaking it up with a wooden spoon or spatula. Cook until browned and no longer pink.",
+        "Stir in the diced tomatoes, tomato sauce, chili powder, ground cumin, paprika, dried oregano, cayenne pepper, salt, and black pepper.",
+        "Bring the chili to a boil, then reduce the heat to low and let it simmer for 45 minutes to 1 hour, stirring occasionally.",
+        "Taste the chili and adjust the seasoning with more salt and pepper, if needed.",
+        "Serve the chili hot, topped with sour cream, grated cheese, and chopped green onions, if desired. To keep it low-carb, you can serve it with a side of cauliflower rice or low-carb tortilla chips."
+    ],
+    "serves": "6",
+    "calories": "420",
+    "nutrition": {
+        "carbohydrates": "12g",
+        "protein": "30g",
+        "fat": "28g",
+        "fiber": "4g",
+        "sodium": "660mg"
+    }
+}

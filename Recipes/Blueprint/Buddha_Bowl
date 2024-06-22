@@ -1,0 +1,38 @@
+{
+  "title": "Buddha Bowl",
+  "ingredients": [
+    {"name": "Japanese sweet potato", "amount": "1"},
+    {"name": "asparagus", "amount": "1/2 head"},
+    {"name": "kale", "amount": "5-6 leaves"},
+    {"name": "red pepper", "amount": "1"},
+    {"name": "carrots", "amount": "2"},
+    {"name": "walnuts", "amount": "1/4 cup"},
+    {"name": "cilantro", "amount": "handful"},
+    {"name": "extra virgin olive oil (EVOO)", "amount": "1/2 tsp"},
+    {"name": "green onions", "amount": "handful"},
+    {"name": "lemon", "amount": "1"},
+    {"name": "dill", "amount": "handful (chopped)"},
+    {"name": "white beans", "amount": "1/4 cup"},
+    {"name": "apple cider vinegar", "amount": "1 tbsp"},
+    {"name": "cumin seeds", "amount": "1/2 tsp"}
+  ],
+  "steps": [
+    "Poke a few holes in the sweet potato and slightly cover with EVOO. Roast the Japanese sweet potato for 45 minutes to 1 hour at 400°F. Once roasted, pull out of the oven, cut in half, and top with green onions and cilantro.",
+    "Roast the red pepper in the oven for 25-30 minutes at 400°F. Thinly slice the pepper after roasting.",
+    "Trim off the woody ends of the asparagus and boil in 1-inch water in a large skillet for 2-5 minutes.",
+    "Rinse and drain the white beans. Top beans with juice of 1 lemon and a handful of chopped dill.",
+    "Shred the carrots and massage with apple cider vinegar and cumin seeds.",
+    "Chop the kale, add a splash of EVOO, and massage kale with your hands until kale softens.",
+    "Assemble the bowl with the sweet potato, asparagus, red pepper, bean salad, kale, and shredded carrots. Top with toasted walnuts and a squeeze of lemon juice."
+  ],
+  "serves": "1",
+  "calories": "558",
+  "nutrition": {
+    "protein": "18.1 g",
+    "fat": "24.3 g",
+    "carbohydrates": "76.6 g",
+    "fiber": "23.8 g"
+  },
+  "tags": "blueprint, bryan johnson, vegan, healthy, plant-based, bowl",
+  "source_uri": "https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}

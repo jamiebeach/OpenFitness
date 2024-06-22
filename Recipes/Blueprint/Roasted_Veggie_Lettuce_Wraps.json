@@ -1,0 +1,40 @@
+{
+  "title": "Roasted Veggie Lettuce Wraps",
+  "ingredients": [
+    {"name": "white sweet potato", "amount": "1"},
+    {"name": "cauliflower", "amount": "1 small head"},
+    {"name": "fennel", "amount": "1 bulb"},
+    {"name": "white sweet onion", "amount": "1"},
+    {"name": "lemon", "amount": "1"},
+    {"name": "extra virgin olive oil (EVOO)", "amount": "1 tbsp"},
+    {"name": "ginger", "amount": "1 small cube"},
+    {"name": "smoked paprika", "amount": "1 tbsp"},
+    {"name": "cumin powder", "amount": "1 tsp"},
+    {"name": "pepper", "amount": "1/2 tsp"},
+    {"name": "fresh herbs (oregano, thyme, rosemary, etc.)", "amount": "3 tbsp"},
+    {"name": "butter lettuce", "amount": "1 head"},
+    {"name": "radishes", "amount": "4"},
+    {"name": "pomegranate seeds", "amount": "1/4 cup"},
+    {"name": "mint leaves", "amount": "1 big handful"},
+    {"name": "jalapeño", "amount": "1"},
+    {"name": "toasted pumpkin seeds", "amount": "1/4 cup"}
+  ],
+  "steps": [
+    "Chop the sweet potato, cauliflower, fennel, and white onion. Combine and place on a baking sheet. Drizzle the EVOO and squeeze the lemon juice on top of the veggies. In a small bowl, combine the smoked paprika, cumin powder, and pepper. Grate the ginger. Sprinkle the seasoning, ginger, and fresh herbs on top of the veggies. Give it a good toss.",
+    "Bake in the oven on 350°F for 45 minutes or until the veggies are tender.",
+    "While baking, finely chop the radishes and mint. Toss together in a small bowl with the pomegranate seeds for the pomegranate relish.",
+    "Wash the butter lettuce and lay out 6-8 leaves for wraps.",
+    "To assemble, add 1/2 cup of roasted veggies, a spoonful of the pomegranate relish, a few slices of jalapeño, and a sprinkle of toasted pumpkin seeds.",
+    "Thinly slice the jalapeño and chop the toasted pumpkin seeds."
+  ],
+  "serves": "1",
+  "calories": "738",
+  "nutrition": {
+    "protein": "26.8 g",
+    "fat": "32.9 g",
+    "carbohydrates": "100.7 g",
+    "fiber": "31.4 g"
+  },
+  "tags": "blueprint, bryan johnson, vegan, healthy, plant-based, wraps",
+  "source_uri": "https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}

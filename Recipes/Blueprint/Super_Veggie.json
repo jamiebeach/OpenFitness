@@ -1,0 +1,35 @@
+{
+  "title": "Super Veggie",
+  "ingredients": [
+    {"name": "dry black lentils", "amount": "45 g"},
+    {"name": "cooked black lentils", "amount": "150 g"},
+    {"name": "broccoli (head & stalk)", "amount": "250 g"},
+    {"name": "cauliflower", "amount": "150 g"},
+    {"name": "shiitake or maitake mushrooms", "amount": "50 g"},
+    {"name": "garlic", "amount": "1 clove"},
+    {"name": "ginger root", "amount": "3 g"},
+    {"name": "lime", "amount": "1"},
+    {"name": "cumin powder", "amount": "1 tbsp"},
+    {"name": "apple cider vinegar", "amount": "1 tbsp"},
+    {"name": "hemp seeds", "amount": "1 tbsp"},
+    {"name": "extra virgin olive oil (EVOO)", "amount": "1 tbsp (+120 cal)"}
+  ],
+  "steps": [
+    "Weigh vegetables. Place broccoli, cauliflower, mushrooms (maitake or shiitake), ginger, and garlic in boiling water. Boil until tender (7–9 min). Steaming is also acceptable.",
+    "Lentils: bring the water to boil in a medium saucepan. Add lentils. Reduce heat to low and cook uncovered for 18–20 minutes or until tender. Place in a colander to drain and rinse under cold water.",
+    "You can choose to blend or keep whole pieces.",
+    "If you choose to blend, place the following in a high-speed blender: 1 Tbsp of dried cumin, 1 Tbsp apple cider vinegar, 1 fresh lime, cooked black lentils, and strained cooked vegetables. Blend until it becomes thick soup. Can also serve as shown in the picture.",
+    "If needed, add some of the vegetable water (or steaming water) to thin out the texture.",
+    "Top with 1 Tbsp hemp seeds and 1 Tbsp EVOO."
+  ],
+  "serves": "1",
+  "calories": "681",
+  "nutrition": {
+    "protein": "39.8 g",
+    "fat": "23.1 g",
+    "carbohydrates": "96.7 g",
+    "fiber": "42.3 g"
+  },
+  "tags":"blueprint,bryan johnson,vegan",
+  "source_uri":"https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}

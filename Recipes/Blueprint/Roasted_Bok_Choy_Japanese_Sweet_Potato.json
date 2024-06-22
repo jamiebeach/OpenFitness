@@ -1,0 +1,33 @@
+{
+  "title": "Roasted Bok Choy + Japanese Sweet Potato",
+  "ingredients": [
+    {"name": "baby bok choy", "amount": "3-4"},
+    {"name": "chopped walnuts", "amount": "1/2 tbsp"},
+    {"name": "chopped green onions", "amount": "handful"},
+    {"name": "cilantro or parsley", "amount": "handful"},
+    {"name": "smoked paprika", "amount": "1 tsp"},
+    {"name": "juice of orange", "amount": "1/2"},
+    {"name": "tahini", "amount": "1 tsp"},
+    {"name": "lemons", "amount": "1-2"},
+    {"name": "chipotle powder", "amount": "1/2 tsp"},
+    {"name": "Japanese sweet potato", "amount": "1"},
+    {"name": "extra virgin olive oil (EVOO)", "amount": "1/2 tbsp"}
+  ],
+  "steps": [
+    "Rinse and chop the Japanese sweet potato in half and then in thirds. Coat with EVOO, place face down on a baking sheet, and bake at 400°F for 45-60 minutes or until soft. 30 minutes in, turn the sweet potatoes over.",
+    "Rinse and slice the bok choy in half. Coat with the juice of 1/2 orange. Roast at 400°F for 20-25 minutes or until golden brown on the edges.",
+    "Toast the walnuts and chipotle powder for 5-10 minutes over medium low heat or until the walnuts are browned.",
+    "Mix 1 tbsp of tahini with the juice of 1-2 lemons. Add 1 tbsp of water at a time until you reach your desired consistency.",
+    "Place the bok choy on a plate and top with chopped walnuts, cilantro, and tahini sauce. Sprinkle with smoked paprika and serve with baked Japanese sweet potatoes."
+  ],
+  "serves": "1",
+  "calories": "360",
+  "nutrition": {
+    "protein": "12 g",
+    "fat": "13.7 g",
+    "carbohydrates": "59.6 g",
+    "fiber": "16.1 g"
+  },
+  "tags": "blueprint, bryan johnson, vegan, healthy, plant-based, roasted",
+  "source_uri": "https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}

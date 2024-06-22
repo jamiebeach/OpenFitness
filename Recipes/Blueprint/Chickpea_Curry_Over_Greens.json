@@ -1,0 +1,39 @@
+{
+  "title": "Chickpea Curry Over Greens",
+  "ingredients": [
+    {"name": "grated fresh ginger", "amount": "1 tbsp"},
+    {"name": "garlic (chopped)", "amount": "1 clove"},
+    {"name": "scallion (chopped)", "amount": "1 medium"},
+    {"name": "red pepper", "amount": "1"},
+    {"name": "white sweet potato", "amount": "1"},
+    {"name": "chickpeas", "amount": "1/2 can"},
+    {"name": "extra virgin olive oil (EVOO)", "amount": "1 tbsp"},
+    {"name": "coconut aminos (optional)", "amount": "1/2 tsp"},
+    {"name": "curry powder", "amount": "1 tbsp or more"},
+    {"name": "cinnamon", "amount": "1/2 tsp"},
+    {"name": "macadamia nut milk", "amount": "1 cup"},
+    {"name": "cilantro", "amount": "handful"},
+    {"name": "baby romaine", "amount": "2 cups"},
+    {"name": "jalapeño (sliced)", "amount": "1"}
+  ],
+  "steps": [
+    "Sauté the grated ginger, chopped garlic, and chopped scallion in EVOO for 5 minutes or until soft.",
+    "Peel and chop the white sweet potato into small chunks and thinly slice the red pepper.",
+    "Rinse and drain the chickpeas.",
+    "Add in the curry powder, cinnamon, and squeeze of lime into a pot. Stir and sauté for 1-2 minutes.",
+    "Add in the pepper, sweet potato, chickpeas, and 1 cup of macadamia nut milk. Bring to a boil, then cover and reduce heat to low. Let cook. Lower temperature and cook for 20-25 minutes or until sweet potatoes are soft.",
+    "If desired, add more macadamia nut milk to achieve desired consistency.",
+    "Let sit 10-15 minutes before serving.",
+    "Scoop the curry mixture over the greens and top with cilantro and sliced jalapeño."
+  ],
+  "serves": "1",
+  "calories": "500",
+  "nutrition": {
+    "protein": "12.9 g",
+    "fat": "22.8 g",
+    "carbohydrates": "67.2 g",
+    "fiber": "19.4 g"
+  },
+  "tags": "blueprint, bryan johnson, vegan, healthy, plant-based, curry",
+  "source_uri": "https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}

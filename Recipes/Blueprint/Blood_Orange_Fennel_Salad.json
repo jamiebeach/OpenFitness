@@ -1,0 +1,31 @@
+{
+  "title": "Blood Orange + Fennel Salad",
+  "ingredients": [
+    {"name": "blood orange", "amount": "1"},
+    {"name": "lemon", "amount": "1"},
+    {"name": "fennel", "amount": "1 bulb"},
+    {"name": "red onion", "amount": "1/2"},
+    {"name": "mint", "amount": "handful"},
+    {"name": "pomegranate seeds", "amount": "1/4 cup"},
+    {"name": "greens (kale, spinach, mixed greens, romaine)", "amount": "1 cup"},
+    {"name": "toasted slivered almonds", "amount": "1/4 cup"},
+    {"name": "white beans (or a bean of your choice)", "amount": "1/2 cup"},
+    {"name": "extra virgin olive oil (EVOO)", "amount": "1 tsp"}
+  ],
+  "steps": [
+    "Cut the stalks off the fennel. Peel off any outer layers and thinly slice or use a mandoline. Place in a large mixing bowl and set aside.",
+    "Peel the blood orange and the orange pith and any white membrane. Slice the orange in chunks. Add to the bowl.",
+    "Thinly slice the red onion and cut the mint. Add both to the bowl.",
+    "Top with EVOO, pomegranate seeds, toasted almonds, beans, and a handful of mint. Squeeze the juice of one lemon, and toss."
+  ],
+  "serves": "1",
+  "calories": "551",
+  "nutrition": {
+    "protein": "21.4 g",
+    "fat": "21.6 g",
+    "carbohydrates": "80.3 g",
+    "fiber": "26.7 g"
+  },
+  "tags": "blueprint, bryan johnson, vegan, healthy, plant-based, salad",
+  "source_uri": "https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero"
+}
